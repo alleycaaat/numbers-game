@@ -6,7 +6,7 @@ import Colors from '../util/colors';
 import Title from '../components/ui/Title';
 import Card from '../components/ui/Card';
 import Heading from '../components/ui/Heading';
-//need to get the buttons to show up properly, idfk what their major malfunction is
+
 function StartGame({ onConfirmNumber }) {
     const [enteredNumber, setEnteredNumber] = useState('');
 
